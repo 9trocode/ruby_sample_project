@@ -3,6 +3,7 @@
 source 'https://rubygems.org'
 
 gem 'awesome_print'
+gem "rake"
 
 group :development do
   gem 'rspec'
